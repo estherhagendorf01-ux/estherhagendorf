@@ -71,3 +71,11 @@ or thoughtful collaboration across tech and non-tech domains,
 feel free to reach out.
 
 I value clarity, depth, and mutual respect over speed.
+
+---
+## **How to work with me**
+- **For Mistral/Hugging Face:** I'm looking for roles that advance *Constraint-Based AI* and *Resonant Systems*.
+- **For Research:** I'm happy to share my *practical* experience with LLMs in regulated environments.
+- **For Workshops:** I explain how to design AI that is *human-centered* (not just "efficient").
+
+**→ [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Email](mailto: estherhagendorf01@gmail.com)**
