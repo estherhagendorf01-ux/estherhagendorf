@@ -78,4 +78,4 @@ I value clarity, depth, and mutual respect over speed.
 - **For Research:** I'm happy to share my *practical* experience with LLMs in regulated environments.
 - **For Workshops:** I explain how to design AI that is *human-centered* (not just "efficient").
 
-**→ [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Email](mailto: estherhagendorf01@gmail.com)**
+**→ [LinkedIn](https://www.linkedin.com/in/your-profile/) |mailto: estherhagendorf01@gmail.com**
