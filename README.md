@@ -71,3 +71,10 @@ or thoughtful collaboration across tech and non-tech domains,
 feel free to reach out.
 
 I value clarity, depth, and mutual respect over speed.
+---
+## **Wie du mit mir arbeiten kannst**
+- **Für Mistral/Hugging Face:** Ich suche Rollen, die *Constraint-Based AI* und *Resonant Systems* vorantreiben.
+- **Für Forschung:** Ich teile gerne meine *praktischen* Erfahrungen mit LLMs in regulierten Umgebungen.
+- **Für Workshops:** Ich erkläre, wie man KI *menschlich* gestaltet (nicht nur „effizient“).
+
+**→ [LinkedIn](https://www.linkedin.com/in/dein-profil/) | [E-Mail](mailto:deine@email.com)**
